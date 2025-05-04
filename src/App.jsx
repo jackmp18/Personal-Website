@@ -10,7 +10,7 @@ export default function App() {
   return (
     <Router>
       <Navbar />
-      <div className="p-6 max-w-6xl mx-auto">
+      <div className="p-6 max-w-4xl mx-auto space-y-16 bg-white shadow-xl rounded-xl mt-10 mb-10">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
