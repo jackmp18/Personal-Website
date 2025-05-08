@@ -13,7 +13,7 @@ export default function Navbar() {
     <nav className="bg-gray-900 text-white py-4 px-6 shadow-md">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-3">
-          <img src="/avatar.png" alt="Logo" className="w-8 h-8 rounded-full" />
+          <img src="https://cdn-icons-png.freepik.com/512/10040/10040881.png" alt="Logo" className="h-10 max-w-[40px] object-contain" />
           <span className="text-lg font-bold">Jack Page</span>
         </div>
         <div className="flex space-x-8">

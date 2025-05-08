@@ -3,13 +3,13 @@ const projects = [
     title: "Postagram",
     description: "A full-stack social media app using React, Node, and MongoDB.",
     tech: ["React", "Node.js", "MongoDB"],
-    link: "https://github.com/jackpage/postagram",
+    link: "https://github.com/jackmp18/Postagram",
   },
   {
     title: "FreightPop Story Grader",
     description: "Internal GPT-powered tool for evaluating Jira stories.",
     tech: ["C#", ".NET", "OpenAI API"],
-    link: "https://github.com/jackpage/story-grader",
+    link: "https://github.com/jackmp18/Jira-GPT-Story-grader",
   },
 ];
 
