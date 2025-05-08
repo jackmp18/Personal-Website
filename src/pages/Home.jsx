@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <section className="text-center mt-10 space-y-4">
+    <section className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center mt-10 space-y-4">
       <img
         src="https://media.licdn.com/dms/image/v2/C4E03AQFtUOeClrRR-g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1625157133531?e=1752105600&v=beta&t=wyaB2f7avqbjxObG1uYoMsBuLAvd2dLE5pLXgmJEZ3I"
         alt="Profile"

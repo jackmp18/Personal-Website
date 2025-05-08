@@ -2,7 +2,7 @@ import resumePDF from '/Users/jackmp18/Github/Personal-Website/Assets/Jack-Page-
 
 export default function About() {
   return (
-    <section className="mt-10 space-y-4">
+    <section className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 space-y-4">
       <h2 className="text-3xl font-bold">About Me</h2>
       <p>
         I'm a senior Computer Science student at Cal State Fullerton with a passion for full-stack development,
